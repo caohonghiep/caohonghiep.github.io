@@ -1,0 +1,49 @@
+{
+  "My_Works": "My Works",
+  "Accounts": "Accounts",
+  "Customer":"Customer",
+  "Employee":"Employee",
+  "Supplier":"Supplier",
+
+  "Services":"Services",
+  "Store": "Store",
+
+  "Appointment": "Appointment",
+
+  "Schedule": "Schedule",
+
+
+
+
+  "APP_TOOLBAR_TITLE": "",
+
+  "MY_WORK": "My Work",
+  "CUSTOMERS": "Customers",
+
+  "ACCOUNTS_HEADER": "Accounts",
+  "ACTIVITIES_HEADER": "Activities",
+  "CONTACTS_HEADER": "Contacts",
+  "DASHBOARDS_HEADER": "Dashboard",
+  "LEADS_HEADER": "Leads",
+  "OPPORTUNITES_HEADER": "Opportunities",
+
+  "EMPLOYEE": "Contact",
+  "ACCOUNT_HEADER": "Account",
+
+
+
+  "SALES_ACTIVITY_DASHBOARD_HEADER": "Dashboard",
+  "Title": "Translation example",
+  "Intro": "Hello I am {{name}}, I am {{birthYear}} years old.",
+  "Startpage": {
+    "TranslationSections": "Hello World"
+  },
+  "Aboutpage": {
+    "TranslationSections": "We are letsboot"
+  },
+  "Accounts": "Accounts",
+  "Customers": "Customers",
+  "Suppliers": "Suppliers",
+  "Employees": "Employees"
+
+}
