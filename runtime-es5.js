@@ -63,7 +63,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"app-modules-appointments-appointments-module":"app-modules-appointments-appointments-module","app-modules-debts-debts-module":"app-modules-debts-debts-module","app-modules-equipments-equipments-module":"app-modules-equipments-equipments-module","app-modules-reports-reports-module":"app-modules-reports-reports-module","app-modules-setting-setting-module":"app-modules-setting-setting-module","app-modules-storage-storage-module":"app-modules-storage-storage-module","app-modules-tasks-tasks-module":"app-modules-tasks-tasks-module","app-modules-treatments-treatments-module":"app-modules-treatments-treatments-module","common":"common","app-modules-accounts-accounts-module":"app-modules-accounts-accounts-module","app-modules-checkout-checkout-module":"app-modules-checkout-checkout-module"}[chunkId]||chunkId) + "-es5.js"
+/******/ 		return __webpack_require__.p + "" + ({"sub-modules-accounts-accounts-module":"sub-modules-accounts-accounts-module","sub-modules-appointments-appointments-module":"sub-modules-appointments-appointments-module","sub-modules-auth-auth-module":"sub-modules-auth-auth-module","sub-modules-debts-debts-module":"sub-modules-debts-debts-module","sub-modules-equipments-equipments-module":"sub-modules-equipments-equipments-module","sub-modules-reports-reports-module":"sub-modules-reports-reports-module","sub-modules-storage-storage-module":"sub-modules-storage-storage-module","sub-modules-tasks-tasks-module":"sub-modules-tasks-tasks-module"}[chunkId]||chunkId) + "-es5.js"
 /******/ 	}
 /******/
 /******/ 	// The require function

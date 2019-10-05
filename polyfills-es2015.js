@@ -5971,22 +5971,26 @@ __webpack_require__.r(__webpack_exports__);
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+window.process = {
+    env: { DEBUG: undefined },
+};
+window.global = window;
 
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!***************************************************************************************************************************!*\
   !*** multi ./src/polyfills.ts ./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js ***!
   \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\DEV\workspaces\iclinic\dtc-ui\src\polyfills.ts */"./src/polyfills.ts");
-module.exports = __webpack_require__(/*! C:\DEV\workspaces\iclinic\dtc-ui\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
+__webpack_require__(/*! C:\DEV\workspaces\iclinic\Source\UI\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\DEV\workspaces\iclinic\Source\UI\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
 
 
 /***/ })
 
-},[[1,"runtime"]]]);
+},[[2,"runtime"]]]);
 //# sourceMappingURL=polyfills-es2015.js.map
