@@ -1,0 +1,19 @@
+{
+  "api": {
+    "contextPath": "https://rem0phqcpl.execute-api.ap-southeast-1.amazonaws.com/Stage",
+    "uri": {
+      "customer": "customers",
+      "service": "services",
+      "customerProfile": "profile"
+    }
+  },
+  "awsAmplify": {
+    "aws_project_region": "us-east-1",
+    "aws_cognito_identity_pool_id": "us-east-1:bfb28f48-47ac-44f0-8b7c-23d504526fb9",
+    "aws_cognito_region": "us-east-1",
+    "aws_user_pools_id": "us-east-1_ejQhP1J5d",
+    "aws_user_pools_web_client_id": "71hte8f8lgbgscs7hhcrg6q12p",
+    "oauth": {}
+  },
+  "dataMode": "online"
+}
